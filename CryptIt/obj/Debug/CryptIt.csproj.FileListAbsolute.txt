@@ -1,0 +1,10 @@
+F:\CryptIt\CryptIt\bin\Debug\CryptIt.exe.config
+F:\CryptIt\CryptIt\bin\Debug\CryptIt.exe
+F:\CryptIt\CryptIt\bin\Debug\CryptIt.pdb
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.csprojAssemblyReference.cache
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.Form1.resources
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.Properties.Resources.resources
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.csproj.GenerateResource.cache
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.csproj.CoreCompileInputs.cache
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.exe
+F:\CryptIt\CryptIt\obj\Debug\CryptIt.pdb
